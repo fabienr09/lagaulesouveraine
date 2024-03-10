@@ -5,6 +5,7 @@
         text-align: center;
     }
 
+![Chien](https://picsum.photos/id/237/200/300)    
     img {
       display: block;
       margin-left: auto;
