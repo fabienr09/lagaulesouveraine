@@ -3,7 +3,14 @@
         color: white;
         background: grey;
         text-align: center;
-    }    
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+    }
 </style>
 
 # La gaule souveraine
