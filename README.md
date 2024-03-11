@@ -14,7 +14,7 @@
 </style>
 
 # La gaule souveraine
-![LA GAULE](https://github.com/fabienr09/lagaulesouveraine/blob/main/Presentationlagaule.jpg)
+![LA GAULE](https://github.com/fabienr09/lagaulesouveraine/blob/main/Presentation%la%gaule.jpg)
 ## CONFECTIONNEUR DE GOURMANDISE
 
 Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
