@@ -14,7 +14,7 @@
 </style>
 
 # La gaule souveraine
-![LA GAULE](![Presentation la gaule](https://github.com/fabienr09/lagaulesouveraine/assets/162436528/e905c265-04e3-40e5-9c86-ae920cb069f9)
+![LA GAULE](https://github.com/fabienr09/lagaulesouveraine/blob/main/Presentation%20la%20gaule.jpg)
 )
 ## CONFECTIONNEUR DE GOURMANDISE
 
