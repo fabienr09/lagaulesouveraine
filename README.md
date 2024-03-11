@@ -14,24 +14,30 @@
 </style>
 
 # La gaule souveraine
-
+![Chien](https://picsum.photos/id/237/200/300)
 ## Présentation de l'équipe
 
-Producteur de gourmandises La gaule souveraine confectionne ses productions au coeur des montagnes ariégeoise. 
+Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
+
+
+[lien vers mairie](https://www.scopyleft.fr)
+    
+#### Nos gourmandises
+
+- Purée de noisettes, amandes
+- Pâtes à tartiner
+- Confiture au chaudron
+- aigre doux
+- Moutarde ...
+
+  Torréfiées au feu de bois et broyées à la meule de pierre à Massat
+
+
+### Producteur de gourmandises La gaule souveraine confectionne ses productions au coeur des montagnes ariégeoise. 
 Les matières premières sont toutes issues de l'agriculture biologique, et locales dans la mesure du possible. Aujourd'hui elle oeuvre à développer une filière de production de noisettes dans son territoire d'implantation pour encourager un approvisionnement de nos matières premières importantes et pour contribuer à l'économie de nos vallées.
 
 Elle encourage les savoir-faire simples et l’utilisation d’une mécanisation qui limitent les nuisances écologiques. Elle s’engage à rechercher et à adopter des solutions de productions pérennes, peu gourmandes en énergie et respectueuses du vivant. De privilégier des réseaux de productions et de distributions en circuits courts. Elles produits des confitures faites au chaudron en cuivre avec des fruits d'Ariège, les pâtes à tartiner sont torréfiées au feu de bois et broyées à la meule de pierre. 
 
 L’entreprise a également mis en culture des plantations de fruits à coques.
-
-
-[lien vers mairie](https://www.scopyleft.fr)
-    
-#### Nos des productions
-
-- Purée de noisettes
-- Pâtes à tartiner
-- Confiture au chaudron
-- Moutarde
     
 ![Chien](https://picsum.photos/id/237/200/300)
