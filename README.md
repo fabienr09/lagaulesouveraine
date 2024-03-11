@@ -17,14 +17,21 @@
 
 ## Présentation de l'équipe
 
-essaie dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation **ullamco** laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Producteur de gourmandises La gaule souveraine confectionne ses productions au coeur des montagnes ariégeoise. 
+Les matières premières sont toutes issues de l'agriculture biologique, et locales dans la mesure du possible. Aujourd'hui elle oeuvre à développer une filière de production de noisettes dans son territoire d'implantation pour encourager un approvisionnement de nos matières premières importantes et pour contribuer à l'économie de nos vallées.
+
+Elle encourage les savoir-faire simples et l’utilisation d’une mécanisation qui limitent les nuisances écologiques. Elle s’engage à rechercher et à adopter des solutions de productions pérennes, peu gourmandes en énergie et respectueuses du vivant. De privilégier des réseaux de productions et de distributions en circuits courts. Elles produits des confitures faites au chaudron en cuivre avec des fruits d'Ariège, les pâtes à tartiner sont torréfiées au feu de bois et broyées à la meule de pierre. 
+
+L’entreprise a également mis en culture des plantations de fruits à coques.
+
 
 [lien vers mairie](https://www.scopyleft.fr)
     
-#### Nom des productions
+#### Nos des productions
 
-- Chocolat
-- noisettes
-- orange
+- Purée de noisettes
+- Pâtes à tartiner
+- Confiture au chaudron
+- Moutarde
     
 ![Chien](https://picsum.photos/id/237/200/300)
