@@ -24,10 +24,10 @@ Installée au coeur d'un village de montagne en Ariège, La gaule souveraine con
     
 #### Nos gourmandises
 
-- Purée de noisettes, amandes Torréfiées au feu de bois et broyées à la meule de pierre
+- Purée de noisettes,amandes torréfiées au feu de bois et broyées à la meule de pierre
 - Pâtes à tartiner
 - Confiture au chaudron
-- aigre doux
+- Aigre doux
 - Moutarde ...
 
 
