@@ -21,7 +21,6 @@
 Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
 
 
-[lien vers mairie](https://www.scopyleft.fr)
     
 #### Nos gourmandises
 
@@ -32,6 +31,9 @@ Installée au coeur d'un village de montagne en Ariège, La gaule souveraine con
 - Moutarde ...
 
   Torréfiées au feu de bois et broyées à la meule de pierre à Massat
+
+#### Retrouvez tous nos produits
+[lien vers mairie](https://www.scopyleft.fr)
 
 
 ### Producteur de gourmandises La gaule souveraine confectionne ses productions au coeur des montagnes ariégeoise. 
