@@ -42,4 +42,4 @@ Elle soutien les savoir-faire simples et l’utilisation d’une mécanisation q
 
 
 
-![logo](https://github.com/fabienr09/lagaulesouveraine/blob/main/logo.svg)
+![logo](assets/logo.svg)
