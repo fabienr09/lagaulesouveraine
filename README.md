@@ -14,7 +14,7 @@
 </style>
 
 # La gaule souveraine
-![LA GAULE](presentationlagaule.jpg)
+![LA GAULE](assets/presentationlagaule.jpg)
 [À PROPOS](a-propos)
 ## CONFECTIONNEUR DE GOURMANDISES
 
