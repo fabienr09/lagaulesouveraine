@@ -13,8 +13,6 @@
     }
 </style>
 
-![logo](assets/logo.svg)
-
 ![LA GAULE](assets/presentationlagaule.jpg)
 [À PROPOS](a-propos)
 ## CONFECTIONNEUR DE GOURMANDISES
@@ -38,7 +36,7 @@ Elle soutien les savoir-faire simples et l’utilisation d’une mécanisation q
 
 
 #### Retrouvez tous nos produits
-[lien vers mairie](https://www.scopyleft.fr)
+[lien ](https://www.scopyleft.fr)
 
 
 
