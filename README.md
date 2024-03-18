@@ -15,6 +15,7 @@
 
 # La gaule souveraine
 ![LA GAULE](presentationlagaule.jpg)
+[À PROPOS](a-propos)
 ## CONFECTIONNEUR DE GOURMANDISES
 
 Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
