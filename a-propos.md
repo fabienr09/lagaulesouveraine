@@ -14,7 +14,7 @@
 </style>
 
 
-![LA GAULE](assets/presentationlagaule.jpg)
+![LA GAULE](assets/IMG_9572 2.jpg)
 [Accueil ](index)
 ## À PROPOS
 
