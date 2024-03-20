@@ -16,6 +16,8 @@
     }
 </style>
 
+<img src="assets/logo.svg" class="logo" alt="logo">
+
 ![LA GAULE](assets/presentationlagaule.jpg)
 [À PROPOS](a-propos)
 ## CONFECTIONNEUR DE GOURMANDISES
@@ -44,4 +46,4 @@ Elle soutien les savoir-faire simples et l’utilisation d’une mécanisation q
 
 
 
-<img src="assets/logo.svg" class="logo" alt="logo">
+
