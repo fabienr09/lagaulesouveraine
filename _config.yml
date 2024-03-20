@@ -1,0 +1,16 @@
+title: Terre Pure
+author:
+  name: Fabien
+  email: fabienroidor@protonmail.com
+description: >-
+  Le site de la Gaule Souveraine propose ...
+url: ""
+github_username:  fabienr09
+lang: fr
+
+markdown: kramdown
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag

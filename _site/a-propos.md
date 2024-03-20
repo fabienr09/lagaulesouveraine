@@ -1,16 +1,25 @@
----
-layout: home
----
-
-
-
+<style>
+    h1 {
+        color: white;
+        text-align: center;
+    }  
+    
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+    }
+    .logo {
+      width: 10%;
+    }
+</style>
 
 <img src="assets/logo.svg" class="logo" alt="logo">
 
-![LA GAULE](assets/presentationlagaule.jpg)
-[À propos](a-propos)     [Contact](contact)
-## CONFECTIONNEUR DE GOURMANDISES
-
+![LA GAULE](assets/9572.jpeg)
+[Accueil ](index)     [Contact](contact)
+## À PROPOS
 
 Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
 
@@ -30,9 +39,9 @@ Elle soutien les savoir-faire simples et l’utilisation d’une mécanisation q
 
 
 #### Retrouvez tous nos produits
-[lien ](https://www.scopyleft.fr)
+[lien vers mairie](https://www.scopyleft.fr)
 
 
 
 
-
+![logo](https://github.com/fabienr09/lagaulesouveraine/blob/main/logo.svg)
