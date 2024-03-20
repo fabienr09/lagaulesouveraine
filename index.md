@@ -11,6 +11,9 @@
       margin-right: auto;
       width: 100%;
     }
+    .logo {
+      width: 10%;
+    }
 </style>
 
 ![LA GAULE](assets/presentationlagaule.jpg)
@@ -41,4 +44,4 @@ Elle soutien les savoir-faire simples et l’utilisation d’une mécanisation q
 
 
 
-![logo](assets/logo.svg)
+<img src="assets/logo.svg" class="logo" alt="logo">
