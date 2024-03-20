@@ -12,6 +12,7 @@
     }
 </style>
 
+<img src="assets/logo.svg" class="logo" alt="logo">
 
 ![LA GAULE](assets/9572.jpeg)
 [Accueil ](index)     [CONTACT](contact)
