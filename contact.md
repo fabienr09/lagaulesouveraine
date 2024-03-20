@@ -10,6 +10,9 @@
       margin-right: auto;
       width: 100%;
     }
+    .logo {
+      width: 10%;
+    }
 </style>
 
 <img src="assets/logo.svg" class="logo" alt="logo">
