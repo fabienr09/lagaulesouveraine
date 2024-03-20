@@ -3,8 +3,6 @@ layout: home
 ---
 
 
-
-
 <img src="assets/logo.svg" class="logo" alt="logo">
 
 ![LA GAULE](assets/presentationlagaule.jpg)

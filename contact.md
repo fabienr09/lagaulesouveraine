@@ -1,19 +1,6 @@
-<style>
-    h1 {
-        color: white;
-        text-align: center;
-    }  
-    
-    img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 100%;
-    }
-    .logo {
-      width: 10%;
-    }
-</style>
+---
+layout: page
+---
 
 <img src="assets/logo.svg" class="logo" alt="logo">
 

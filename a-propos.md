@@ -1,19 +1,6 @@
-<style>
-    h1 {
-        color: white;
-        text-align: center;
-    }  
-    
-    img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 100%;
-    }
-    .logo {
-      width: 10%;
-    }
-</style>
+---
+layout: page
+---
 
 <img src="assets/logo.svg" class="logo" alt="logo">
 
@@ -22,6 +9,8 @@
 ## À PROPOS
 
 Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
+
+{{ truc }}
 
 Les matières premières sont issues de l'agriculture biologique, et dans la mesure du possible locales. Aujourd'hui elle oeuvre à développer une filière de production de noisettes dans son territoire d'implantation pour maitirser un approvisionnement locale et encourager l'économie de nos vallées.
 
