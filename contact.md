@@ -18,7 +18,7 @@
 <img src="assets/logo.svg" class="logo" alt="logo">
 
 ![LA GAULE](assets/9723.jpeg)
-[Accueil ](index)     [À PROPOS](a-propos)
+[Accueil ](index)     [À propos](a-propos)
 ## À PROPOS
 
 Installée au coeur d'un village de montagne en Ariège, La gaule souveraine confectionne ses créations gustatives en respectant au mieux les matières premières pour un résultat savoureux et riche en nutriments.
