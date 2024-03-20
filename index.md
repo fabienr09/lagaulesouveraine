@@ -19,7 +19,7 @@
 <img src="assets/logo.svg" class="logo" alt="logo">
 
 ![LA GAULE](assets/presentationlagaule.jpg)
-[À PROPOS](a-propos)
+[À PROPOS](a-propos)     [CONTACT](contact)
 ## CONFECTIONNEUR DE GOURMANDISES
 
 
