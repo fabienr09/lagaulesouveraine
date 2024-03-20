@@ -1,7 +1,6 @@
 <style>
     h1 {
         color: white;
-        background: grey;
         text-align: center;
     }  
     
@@ -9,7 +8,7 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 50%;
+      width: 100%;
     }
 </style>
 
