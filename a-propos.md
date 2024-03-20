@@ -13,7 +13,7 @@
 </style>
 
 
-![LA GAULE](assets/IMG_9572 2.jpg)
+![LA GAULE](assets/9572.jpeg)
 [Accueil ](index)     [CONTACT](contact)
 ## À PROPOS
 
