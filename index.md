@@ -2,11 +2,11 @@
 layout: home
 ---
 
-logo {
+<logo {
   width: 50px;
   height: 50px;
   object-fit: cover;
-}
+}>
 <img src="assets/logo.svg" class="logo" alt="logo">
 
 ![LA GAULE](assets/presentationlagaule.jpg)
