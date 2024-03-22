@@ -1,6 +1,8 @@
 ---
 layout: page
+title: contact
 ---
+mangue ne tombe jamais très loin du pommier
 
 <img src="assets/logo.svg" class="logo" alt="logo">
 
